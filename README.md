@@ -17,6 +17,9 @@ It allows users to **register, log in, create, edit, and delete blog posts**, wi
 ![Home](Images/Home_Page.png)
 
 2.LOGIN PAGE
+
+
+
 ![Login](Images/Login.png)
 
 3.ADD POST
