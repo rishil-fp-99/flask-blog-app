@@ -50,7 +50,7 @@ It allows users to **register, log in, create, edit, and delete blog posts**, wi
 | **Database** | SQLite3 |
 | **Frontend** | HTML, CSS (Jinja2 templates) |
 | **Security** | Werkzeug Password Hashing |
-| **Language** | Python 3.9+ |
+| **Language** | Python 3.8+ |
 
 ---
 
