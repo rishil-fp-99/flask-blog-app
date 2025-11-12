@@ -13,9 +13,6 @@ It allows users to **register, log in, create, edit, and delete blog posts**, wi
 
 ## 📸 Screenshots
 
-> Add your screenshots in a `/screenshots` folder and link them here.
-
-
 1.HOME Page
 ![Home](Images/Home_Page.png)
 
