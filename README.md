@@ -58,17 +58,11 @@ It allows users to **register, log in, create, edit, and delete blog posts**, wi
 
 Follow these steps to run the project locally:
 
-### 1️⃣ Clone the repository
-```bash
+### 
+1.Clone the repository
 git clone https://github.com/rishil-fp-99/flask-blog-app.git
 cd flask-blog-app
 
-### 2️⃣ Run the repository
-```bash
+2.Run the repository
 python run main_blog_app.py
-
-
-
-
-
 
