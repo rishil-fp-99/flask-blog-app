@@ -61,6 +61,16 @@ Follow these steps to run the project locally:
 ### 
 1.Clone the repository
 git clone https://github.com/rishil-fp-99/flask-blog-app.git
+
+
+
+
+
+
+
+
+
+
 cd flask-blog-app
 
 2.Run the repository
