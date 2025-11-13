@@ -1,7 +1,7 @@
 # flask-blog-app
 # 📝 BlogApp — A Simple Flask Blogging Platform
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-lightgrey)
 ![SQLite](https://img.shields.io/badge/Database-SQLite3-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
