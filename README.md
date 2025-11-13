@@ -64,6 +64,7 @@ git clone https://github.com/rishil-fp-99/flask-blog-app.git
 cd flask-blog-app
 
 ### 2️⃣ Run the repository
+```bash
 python run main_blog_app.py
 
 
